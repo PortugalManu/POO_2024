@@ -1,0 +1,11 @@
+package aula01;
+
+public class exemplo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			System.out.println("Meu  primeiro progarama em java");
+			System.out.println("manue é gay");
+	}
+
+}
