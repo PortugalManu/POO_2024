@@ -14,8 +14,8 @@ public class ad003
          double ValorHora = sc.nextDouble();
 
          double salario = HTrabalhadas * ValorHora;
-         System.out.printf("NUMERO = ", NumFuncionario);
-         System.out.printf("SALARIO = ", salario);
+         System.out.println("NUMERO = " + NumFuncionario);
+         System.out.println("SALARIO = " + salario);
 		sc.close();
 
 	}
