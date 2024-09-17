@@ -2,7 +2,7 @@ package ad001;
 
 import java.util.Scanner;
 
-public class ad001 
+public class Ad001 
 {
 	public static void main(String[] args) 
 	{

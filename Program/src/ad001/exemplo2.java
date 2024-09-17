@@ -1,4 +1,4 @@
-package aula01;
+package ad001;
 
 import java.util.Scanner;
 
@@ -14,6 +14,7 @@ public class exemplo2 {
 			System.out.println("Este numero é par");
 		} else {
 			System.out.println("Este numero é impar");
+			sc.close();
 		}
 	}
 

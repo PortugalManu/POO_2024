@@ -1,4 +1,4 @@
-package aula01;
+package ad001;
 
 import java.util.Scanner;
 
@@ -23,6 +23,7 @@ public class exemplo {
 			System.out.println("Positivo");
 		}
  System.out.println();
+ sc.close();
 	}
 
 }
