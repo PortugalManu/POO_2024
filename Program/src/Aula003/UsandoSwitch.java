@@ -42,6 +42,8 @@ public class UsandoSwitch {
 
 		default:
 			System.out.println("Número Inválido");
+			
+		sc.close();
 
 		}
 
