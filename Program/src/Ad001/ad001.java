@@ -1,8 +1,8 @@
-package ad001;
+package Ad001;
 
 import java.util.Scanner;
 
-public class Ad001 
+public class ad001 
 {
 	public static void main(String[] args) 
 	{

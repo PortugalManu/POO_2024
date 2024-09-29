@@ -1,4 +1,4 @@
-package ad001;
+package Ad001;
 
 public class tabuada {
 
