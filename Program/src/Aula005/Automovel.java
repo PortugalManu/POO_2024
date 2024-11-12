@@ -1,4 +1,4 @@
-package Aula05;
+package Aula005;
 
 public class Automovel {
 

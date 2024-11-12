@@ -1,6 +1,6 @@
-package Aula03;
+package Aula004;
 
-public class Aula3 {
+public class Cachorro {
 
 	
 		String nome, cordopelo;

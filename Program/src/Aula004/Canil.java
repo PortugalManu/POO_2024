@@ -1,15 +1,15 @@
-package Aula03;
+package Aula004;
 
 import java.util.Scanner;
 
-public class Caniu {
+public class Canil {
 
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
 
-		Aula3 pitbull = new Aula3();
-		Aula3 basset = new Aula3();
+		Cachorro pitbull = new Cachorro();
+		Cachorro basset = new Cachorro();
 
 		System.out.print("Entre com o nome do primeiro cachorro pitbull: ");
 		pitbull.nome = sc.next();
